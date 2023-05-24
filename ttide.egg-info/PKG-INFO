@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: ttide
+Version: 0.3-exp
+Summary: Python distribution of the MatLab package TTide.
+Home-page: https://github.com/moflaher/ttide_py
+Author: Mitchell O'Flaherty-Sproul
+Author-email: 073208o@acadiau.ca
+License: MIT
+
 ttide_py
 ========
 
